@@ -1,0 +1,205 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas1.png",
+      "PackagePath": "staticwebassets\\Aereolineas1.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas10.png",
+      "PackagePath": "staticwebassets\\Aereolineas10.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas2.png",
+      "PackagePath": "staticwebassets\\Aereolineas2.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas3.png",
+      "PackagePath": "staticwebassets\\Aereolineas3.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas4.png",
+      "PackagePath": "staticwebassets\\Aereolineas4.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas5.png",
+      "PackagePath": "staticwebassets\\Aereolineas5.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas6.png",
+      "PackagePath": "staticwebassets\\Aereolineas6.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas7.png",
+      "PackagePath": "staticwebassets\\Aereolineas7.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas8.png",
+      "PackagePath": "staticwebassets\\Aereolineas8.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Aereolineas9.png",
+      "PackagePath": "staticwebassets\\Aereolineas9.png"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel1.jpg",
+      "PackagePath": "staticwebassets\\Hotel1.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel10.jpg",
+      "PackagePath": "staticwebassets\\Hotel10.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel2.jpg",
+      "PackagePath": "staticwebassets\\Hotel2.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel3.jpg",
+      "PackagePath": "staticwebassets\\Hotel3.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel4.jpg",
+      "PackagePath": "staticwebassets\\Hotel4.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel5.jpg",
+      "PackagePath": "staticwebassets\\Hotel5.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel6.jpg",
+      "PackagePath": "staticwebassets\\Hotel6.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel7.jpg",
+      "PackagePath": "staticwebassets\\Hotel7.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel8.jpg",
+      "PackagePath": "staticwebassets\\Hotel8.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Hotel9.jpg",
+      "PackagePath": "staticwebassets\\Hotel9.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion1.jpg",
+      "PackagePath": "staticwebassets\\excursion1.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion10.jpg",
+      "PackagePath": "staticwebassets\\excursion10.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion2.jpg",
+      "PackagePath": "staticwebassets\\excursion2.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion3.jpg",
+      "PackagePath": "staticwebassets\\excursion3.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion4.jpg",
+      "PackagePath": "staticwebassets\\excursion4.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion5.jpg",
+      "PackagePath": "staticwebassets\\excursion5.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion6.jpg",
+      "PackagePath": "staticwebassets\\excursion6.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion7.jpg",
+      "PackagePath": "staticwebassets\\excursion7.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion8.jpg",
+      "PackagePath": "staticwebassets\\excursion8.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\excursion9.jpg",
+      "PackagePath": "staticwebassets\\excursion9.jpg"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP04o.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP04o.props",
+      "PackagePath": "build\\TP04o.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP04o.props",
+      "PackagePath": "buildMultiTargeting\\TP04o.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP04o.props",
+      "PackagePath": "buildTransitive\\TP04o.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
